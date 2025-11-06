@@ -21,6 +21,15 @@ console.log(a)
 var a = 10
 
 console.log("")
-console.log("Exercici 3.1")
-console.log(b)
-let b = 10
+console.log("Exercici 4")
+let x = 46
+console.log(x)
+x = "Hola"
+console.log(x)
+
+console.log("")
+console.log("Exercici 5")
+const y = 10
+console.log(y)
+y = "Adeu"
+console.log(y)
