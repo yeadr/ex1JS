@@ -31,3 +31,13 @@ console.log("")
 console.log("Exercici 5")
 const y = 10
 console.log(y)
+
+console.log("")
+console.log("Exercici 6")
+let num = 1.234
+let big = 5.678
+const suma = Number(num + Number(big))
+const resta = Number(num - Number(big))
+const multi = Number(num * Number(big))
+const divisio = Number(num / Number(big))
+console.log(suma.toFixed(1), resta.toFixed(1), multi.toFixed(1), divisio.toFixed(1))
