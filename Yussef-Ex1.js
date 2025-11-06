@@ -54,3 +54,9 @@ console.log("Exercici 8")
 let xd = 10
 let no = "Hola"
 console.log(xd / no)
+
+console.log("")
+console.log("Exercici 9")
+let nom9 = "Yussef El Alami"
+let cognom = nom9.split(" ")[1] + " " + nom9.split(" ")[2]
+console.log(cognom, cognom.length)
