@@ -48,3 +48,9 @@ const catet = 4
 const catet2 = 4
 const hipotenusa = catet * catet2
 console.log(hipotenusa)
+
+console.log("")
+console.log("Exercici 8")
+let xd = 10
+let no = "Hola"
+console.log(xd / no)
