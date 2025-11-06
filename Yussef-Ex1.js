@@ -78,3 +78,9 @@ console.log("Exercici 12")
 let e12 = true
 console.log(String(e12))
 console.log(e12 + "")
+
+console.log("")
+console.log("Exercici 13")
+let s = "Hola"
+console.log(Boolean(s))
+console.log(!!s)
