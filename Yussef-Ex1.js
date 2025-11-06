@@ -81,6 +81,6 @@ console.log(e12 + "")
 
 console.log("")
 console.log("Exercici 13")
-let s = "Hola"
-console.log(Boolean(s))
-console.log(!!s)
+let e13 = "Hola"
+console.log(Boolean(e13))
+console.log(!!e13)
