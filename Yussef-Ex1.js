@@ -65,4 +65,16 @@ console.log("")
 console.log("Exercici 10")
 let text = "Yussef El Alami"
 let nouText = text.slice(0, 6) + text.slice(7)
-console.log(nouText)
+console.log(nouText)    
+
+console.log("")
+console.log("Exercici 11")
+let u = undefined
+let n = null
+console.log(u + n)
+
+console.log("")
+console.log("Exercici 12")
+let e12 = true
+console.log(String(e12))
+console.log(e12 + "")
