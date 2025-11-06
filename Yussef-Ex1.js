@@ -60,3 +60,9 @@ console.log("Exercici 9")
 let nom9 = "Yussef El Alami"
 let cognom = nom9.split(" ")[1] + " " + nom9.split(" ")[2]
 console.log(cognom, cognom.length)
+
+console.log("")
+console.log("Exercici 10")
+let text = "Yussef El Alami"
+let nouText = text.slice(0, 6) + text.slice(7)
+console.log(nouText)
