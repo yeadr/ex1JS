@@ -14,3 +14,13 @@ if (estudiant) {
 } else {
     console.log("No")
 }
+
+console.log("")
+console.log("Exercici 3")
+console.log(a)
+var a = 10
+
+console.log("")
+console.log("Exercici 3.1")
+console.log(b)
+let b = 10
