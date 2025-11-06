@@ -31,5 +31,3 @@ console.log("")
 console.log("Exercici 5")
 const y = 10
 console.log(y)
-y = "Adeu"
-console.log(y)
