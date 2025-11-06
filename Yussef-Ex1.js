@@ -84,3 +84,9 @@ console.log("Exercici 13")
 let e13 = "Hola"
 console.log(Boolean(e13))
 console.log(!!e13)
+
+console.log("")
+console.log("Exercici 14")
+let e14 = false
+console.log(Number(e14))
+console.log(0+e14)
