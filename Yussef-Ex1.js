@@ -41,3 +41,10 @@ const resta = Number(num - Number(big))
 const multi = Number(num * Number(big))
 const divisio = Number(num / Number(big))
 console.log(suma.toFixed(1), resta.toFixed(1), multi.toFixed(1), divisio.toFixed(1))
+
+console.log("")
+console.log("Exercici 7")
+const catet = 4
+const catet2 = 4
+const hipotenusa = catet * catet2
+console.log(hipotenusa)
